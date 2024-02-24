@@ -1,0 +1,57 @@
+.yes1{
+    background-color: black;
+    text-align: center;
+    
+}
+.yes1 ul {
+color: white;
+    display:  inline flex;
+}
+.yes1 ul li {
+    font-family: Impact;
+    
+    width: 120px;
+    margin: 15;
+    padding:15px ;
+}
+.yes1 ul li :hover{
+    background: floralwhite;
+    color: #000000;
+    border-radius:3px;
+}
+.boss{
+    font-size: 40px;
+    color: black;
+    font-style: italic;
+    position: relative;
+    top: 50px;
+    left: 1180px;
+    border: 5px solid green;
+    width: 20vw;
+    position: center;
+    
+}
+
+
+.ed-image{
+    height: 60vh;
+    width: 20vw;
+    position: relative;
+    left: 1220px;
+    top: -300px;
+}
+.information {
+    border: 2px solid black;
+    height: 55vh;
+    width: 30vw;
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    left:300px;
+    text-size-adjust: 30px;
+
+
+
+}
